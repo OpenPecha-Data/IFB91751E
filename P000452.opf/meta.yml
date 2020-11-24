@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG02677
   title: ཡིད་བཞིན་མཛོད་ཀྱི་འགྲེལ་པ་པདྨ་དཀར་པོ
-  volume: ''
+  volume:
+    14f4ddc8064a459387cabb182b0e9fbb:
+      image_group_id: I00KG02990
+      title: Volume 1 of yid bzhin mdzod kyi 'grel pa
+      volume_number: 1
+      total_pages: 570
   author: ''
+ebook_metadata:
+  title: ཡིད་བཞིན་མཛོད་ཀྱི་འགྲེལ་པ་པདྨ་དཀར་པོ
+  author: ''
+  sku: P000452
+  cover: cover.jpg
+  layers:
+  - pagination
